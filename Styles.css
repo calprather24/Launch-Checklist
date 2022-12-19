@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  text-align: left;
+}
+
+#faultyItems {
+  visibility: hidden;
+}
+
+#launchForm {
+  background-color: #ecf0f1;
+  text-align: center;
+  margin: auto;
+  width: 25%;
+  border: 3px solid black;
+  padding: 10px;
+  background: rgba(195, 197, 195, 0.6);
+  border-radius: 25px;
+}
+
+#launchStatusCheck {
+  background-color: #ecf0f1;
+  text-align: center;
+  margin: 50px auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  background: rgba(195, 197, 195, 0.6);
+  border-radius: 25px;
+}
+
+#missionTarget img {
+  max-width: 40%;
+  max-height: 250px;
+  opacity: 100;
+}
+
+#missionTarget {
+  background-color: #ecf0f1;
+  text-align: center;
+  margin: 50px auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  background: rgba(195, 197, 195, 0.6);
+  border-radius: 25px;
+}
+
+button {
+  background-color: #419f6a;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  width: 25%;
+  height: 30px;
+  margin: 10px 0;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1614728611996-806169502cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8&w=1000&q=80");
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
